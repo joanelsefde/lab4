@@ -1,0 +1,11 @@
+A.
+T_Z7averagePdRd
+T_Z7averageif
+T main
+B.
+output:
+1 8
+4 8
+4 8
+8 8
+pointer用來記錄變數記憶體的位址,記錄位址的空間在宣告時就固定,所以不會隨著變數的型態而改變。
